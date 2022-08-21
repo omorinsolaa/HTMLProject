@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexus</title>
+</head>
+<body>
+    <nav>
+        <h2>Tesla Roadster</h2>
+
+        <ul>
+            <li><a href="#shop">Shop</a></li>
+            <li><a href="#account">Account</a></li>
+            <li><a href="#menu">Menu</a></li>
+            <button type="button">Get Yours</button>
+            
+        </ul>
+    </nav>
+
+    <div>
+        <h1>Roadster</h1>
+
+        <em>The Quickest Car In The World...A Must Have</em><br><br>
+        <img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="">
+
+        
+            <h3>Model and specifications</h3>
+
+            <li>Model A Acceleration<input type="checkbox">0.64 mph</li> 
+            <li>Model X Acceleration<input type="checkbox">0.65 mph</li>
+            <li>Model Y Acceleration<input type="checkbox">0.78 mph</li>
+            <li>Model Z Acceleration<input type="checkbox">0.90 mph</li>
+
+        </div>
+        <section class="special" id="special">
+            <h2>Specialties</h2>
+            <p> Why choose Roadster ?</p>
+
+            <ol>
+                <li>The First super car to set  performance record and the seating for 4.</li>
+                <li>As an all electric super car roadster maximizes the potential of  dynamic engineering</li>
+                <li>Design for performance and aero efficiency world record </li>
+                <li>A light weight removable glass roof that stores in the trunk for an open  air convertable driving experience</li>
+            </ol>
+        </section>
+        <hr>
+        <footer>
+
+            <button class="btn" type="button"><a href="#">Rent Today</a></button>
+            <input type="date">
+            <li><a href="#"> Telsa &copy;2022</a></li> 
+
+        </footer>
+        
+
+
+        <hr>
+
+
+    
+</body>
+</html>
